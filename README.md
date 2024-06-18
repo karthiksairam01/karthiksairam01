@@ -1,4 +1,4 @@
-# Welcome to my GitHub page!
+# Welcome to Karthik's GitHub page!
 
 - 👋 I'm Karthik Sairam, a Computer Science engineer currently studying my masters in CS at CU Boulder ⚫🟡
 - 💻 My GitHub contains some interesting repositories and I'm trying to work on more projects every single day!
